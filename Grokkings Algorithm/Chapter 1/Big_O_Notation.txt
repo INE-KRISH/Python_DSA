@@ -1,0 +1,10 @@
+Big O Noatation is the noatation used to describe the worst case scenario of the code.
+
+This is used for many other things i.e., to compare different different code by using same method to compare
+
+one of the best time complexity of the searching algorithm is O(log n)
+
+
+other complexity:
+
+O(log n)  <  O(n)  <  O(n log n)  <  O(n^2)  <  O(n!)
